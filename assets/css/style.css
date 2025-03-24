@@ -1,0 +1,14 @@
+	.main-articles{
+		display:flex;
+	}
+	.main-articles .sub-article{
+		/*padding: 15px;
+		background-color: yellow;
+		margin: 15px;
+		align-items: center;*/
+		display: inline-block;
+		height:500px;
+		vertical-align: top;
+		width:20%;
+		background-color: gray;
+	}
